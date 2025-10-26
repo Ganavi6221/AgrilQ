@@ -35,5 +35,12 @@ Out of curiosity and a desire to extend this idea into a tangible project, I dec
 
 ---
 
+## Getting Started
+
+1. Install Flutter SDK.
+2. Clone this repo.
+3. Run `flutter pub get`.
+4. Launch the app with `flutter run`.
+
 > Developed by **Ganavi K.E.**  
 > A simple UI project inspired by curiosity and learning journey in Flutter 🚀
