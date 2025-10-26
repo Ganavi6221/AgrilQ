@@ -41,6 +41,12 @@ Out of curiosity and a desire to extend this idea into a tangible project, I dec
 2. Clone this repo.
 3. Run `flutter pub get`.
 4. Launch the app with `flutter run`.
+   
+---
+
+## Contribution
+
+Pull requests are welcome! For major changes, please open an issue first.
 
 > Developed by **Ganavi K.E.**  
 > A simple UI project inspired by curiosity and learning journey in Flutter 🚀
