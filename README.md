@@ -1,16 +1,39 @@
-# agrilq
+# 🌾 AgrilQ — Farm Equipment Rental UI
 
-A new Flutter project.
+This project is a **Flutter-based UI prototype** for a farm equipment rental app.
 
-## Getting Started
+I initially participated in an event called **IDEATHON** conducted in SJB Institute of Technology, where I and my team presented the idea of a *platform that allows farmers to rent and share agricultural equipment*.  
 
-This project is a starting point for a Flutter application.
+Out of curiosity and a desire to extend this idea into a tangible project, I decided to build a **basic UI** for the app using the Flutter knowledge I was acquiring.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖥️ Project Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Purpose:** Create a simple, functional UI for the farm equipment rental concept  
+- **Tech Used:** Flutter (Dart)  
+- **Structure:** Modular screens for easy expansion  
+  - Dashboard  
+  - Featured Products  
+  - Bottom Navigation  
+
+---
+
+## 🌱 Future Scope
+
+- Expand into a fully functional app with equipment booking and management  
+- Add AI-powered recommendations and multilingual support  
+- Integrate real-time tracking or IoT sensors if resources allow  
+
+---
+
+## 📂 Project Folder
+
+- `lib/` – Contains all Dart files for UI screens  
+- `pubspec.yaml` – Flutter project configuration  
+- `assets/` – Images and other media used in UI  
+
+---
+
+> Developed by **Ganavi K.E.**  
+> A simple UI project inspired by curiosity and learning journey in Flutter 🚀
